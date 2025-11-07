@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Finn McGinn'
-theme = 'hugo-theme-m10c'
+title = 'My New Hugo Site'
+theme = 'resume-a4'

@@ -1,0 +1,94 @@
+about:
+  name: Finn McGinn
+  tagline: Platform Operations Engineer
+  phone: "(+44) 7494282814"
+  email: mcginnfinn2@gmail.com
+  links:
+    - title: /in/mertbakir
+      url: https://www.linkedin.com/in/finn-mcginn-a13669144/
+      icon: fab fa-linkedin
+    - title: mertbakir
+      url: https://github.com/finsey
+      icon: fab fa-github
+  details: |
+    Experienced Platform Operations Engineer with a vast technical skillset and experience in building resilient and secure on-premise infrastructures. Expertise spans across automation, security, and resource optimization. Highly versed with GitOps practices, building CI/CD pipelines and mentoring colleagues while delivering scalable solutions.
+
+
+skills:
+  - groupName: Infrastructure as Code
+    list:
+      - Ansible
+      - Terraform
+
+  - groupName: Kubernetes (CKAD-Certified)
+    list:
+      - API
+      - K9s
+      - Kubectl
+      - Helm
+      - Helmfile
+      - Kustomize
+
+  - groupName: VMWare & Virtualization
+    list:
+      - VMWare vSphere - ESXi
+
+  - groupName: GitOps & CI/CD
+    list:
+      - gitlab
+      - CI/CD Pipelines
+      - Version control
+  
+  - groupName: Programming & Scripting
+    list:
+      - Python
+      - Bash
+      - JavaScript
+      - PowerShell
+      - JSON/XML/YAML
+  
+  - groupName: Compute Fundamentals
+    list:
+      - Linux Administration
+      - Windows Server Administration
+      - Networking Fundamentals
+      - PKI/LDAP
+      - DNS/DHCP
+  
+  - groupName: Monitoring
+    list:
+      - Prometheus
+      - Grafana 
+
+languages:
+  - name: English
+    level: Native
+    
+# This will use the default widget: "details-list"
+awards:
+  - title: "Tübitak - Graduation Project"
+    date: "2017"
+    subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: example
+        url: https://mertbakir.gitlab.io
+        icon: fas fa-bolt
+        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+      - title: second link.
+        url: https://esdfdsfdsf
+        icon: "-" # you can get rid of the icon by entering dummy text
+        prefix: "omg"
+
+certificates:
+  - title: "Supervised Learning: Regression"
+    subtitle: Coursera
+    date: "2020"
+    link: https://xkcd.com/605/ # This link will be on title level.
+
+  - title: "Supervised Learning: Classification"
+    subtitle: Coursera
+    date: "2020"
+    link: https://xkcd.com/388/
